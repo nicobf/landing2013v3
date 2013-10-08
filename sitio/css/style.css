@@ -746,3 +746,7 @@ border-radius: 500px;
 .lista-footer{
 	list-style: none;
 }
+
+.wrapper {
+	min-height: 0px;
+}
